@@ -1,2 +1,2 @@
 # Scripts
-Scripts de Instalação
+Scripts de Instalação Linux
