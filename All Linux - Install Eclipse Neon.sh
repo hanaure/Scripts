@@ -27,7 +27,6 @@ Name=Eclipse
 Comment=IDE de Desenvolvimento
 Exec=eclipse %U
 Icon=/opt/eclipse/icon.xpm
-MimeType=application/x-bittorrent;x-scheme-handler/magnet;
 StartupNotify=false
 Categories=Application;Development;Java;IDE;
 Type=Application" > /usr/share/applications/Eclipse.desktop
