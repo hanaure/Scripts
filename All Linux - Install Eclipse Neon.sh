@@ -15,11 +15,11 @@ tar -xvf eclipse.tar.gz
 rm -Rf /opt/eclipse
 mv eclipse /opt/
 
-# Create Link
+# Criar Link
 rm -f /bin/eclipse
 ln -s /opt/eclipse/eclipse /bin/eclipse
 
-# Create .desktop
+# Criar .desktop
 rm -f /usr/share/applications/Eclipse.desktop
 echo "#!/usr/bin/env xdg-open
 [Desktop Entry]
